@@ -1,5 +1,5 @@
 {
-  "status": "operational",
-  "updated_at": "2026-11-25T10:05:46Z",
-  "message": "Automated health monitoring is active. Status reflects the public endpoint health check, updated every few minutes."
+  "status": "down",
+  "updated_at": "2026-11-25T13:21:32Z",
+  "message": "Public endpoint state changed: operational -> down."
 }

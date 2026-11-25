@@ -5,7 +5,8 @@
       "note": "Status page launched"
     },
     "2026-11-25": {
-      "status": "operational"
+      "status": "down",
+      "note": "Storefront endpoint down"
     }
   }
 }

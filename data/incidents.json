@@ -6,6 +6,13 @@
       "status": "operational",
       "title": "Status page launched",
       "message": "First status report. Automated reporting from the gateway is not connected yet; this entry was published manually via scripts/update_status.py."
+    },
+    {
+      "id": "20261125T132132Z",
+      "time": "2026-11-25T13:21:32Z",
+      "status": "down",
+      "title": "Storefront endpoint down",
+      "message": "Public endpoint state changed: operational -> down."
     }
   ]
 }
