@@ -13,6 +13,13 @@
       "status": "down",
       "title": "Storefront endpoint down",
       "message": "Public endpoint state changed: operational -> down."
+    },
+    {
+      "id": "20261125T142420Z",
+      "time": "2026-11-25T14:24:20Z",
+      "status": "operational",
+      "title": "Storefront endpoint operational",
+      "message": "Public endpoint state changed: down -> operational."
     }
   ]
 }
