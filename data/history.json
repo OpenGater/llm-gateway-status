@@ -7,6 +7,9 @@
     "2026-11-25": {
       "status": "down",
       "note": "Storefront endpoint down"
+    },
+    "2026-11-26": {
+      "status": "operational"
     }
   }
 }
